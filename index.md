@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/cheng107/zuoye/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cheng107/zuoye/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>作业一</title>
+</head>
+<body>
+    <h1>通信1901班 201916180115 程金阳</h1><p></p>
+    <h2>介绍:</h2>
+    <p>程金阳，一个出生于2000年的河南阳光大男孩，</p>
+    <p>不爱运动的我却爱上了看篮球，足球等球类运动比赛，</p>  
+    <p>还爱看各类悬疑剧，钟爱吃火锅。</p>  
+    <h2>照片:</h2>
+    <img src="img.html\34BCBFBBDD26B4073B20E9D333FBDD6F.jpg" width="250">
+    <h2>周边美食:</h2>
+    <P>金村旁边并没有很多美食，也没有吃过很多，唯一记忆，黄焖鸡。</P>
+    <img src="img.html\59723476631529644648.jpg" width="250">
+    <h3>好吃！</h3>
+</body>
+</html>
